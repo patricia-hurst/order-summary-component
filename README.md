@@ -6,7 +6,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -22,13 +21,8 @@ Users should be able to:
 
 - See hover states for interactive elements
 
-### Screenshot
-
-![image-20210814141323874](C:\Users\phurs\AppData\Roaming\Typora\typora-user-images\image-20210814141323874.png)
-
 ### Links
 
-- Solution URL: [Code on GitHub](https://github.com/patricia-hurst/order-summary-component)
 - Live Site URL: [Preview Site](https://patricia-hurst.github.io/order-summary-component/)
 
 ## My process
